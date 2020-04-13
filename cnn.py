@@ -36,7 +36,7 @@ class PR_CNN(nn.Module):
 
     """
 
-    def __init__(self, **kwargs):
+    def __init__(self, **kwargs): #jerk
         """
         Creates an CNN_basic model from the scratch.
 
